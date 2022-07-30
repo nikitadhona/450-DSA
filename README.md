@@ -6,4 +6,4 @@ Starting the Love Babbar's 450 Questions DSA Sheet to be consistent by updating 
 | 1 | Array | Reverse Array |
 | 2 | Array | 012 Sorting |
 | 3 | LinkedList | Insertion at Tail and Head |
-||||
+| 4 | LinkedList | Reverse LinkedList |
