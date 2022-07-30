@@ -9,7 +9,12 @@ class node{
         next=NULL;
     }
 };
-
+node* insert_at_head(node* &head,int val){
+    node* n= new node(val);
+    n->next=head;
+    head=n;
+    return head;
+}
 void insert_at_tail(node* &head,int val){
     node* n = new node(val);
     if(head==NULL){
@@ -38,6 +43,8 @@ int main(){
     insert_at_tail(head,2);
     insert_at_tail(head,3);
     insert_at_tail(head,4);
+    display(head);
+    insert_at_head(head,0);
     display(head);
     return 0;
 }
