@@ -1,5 +1,5 @@
 # 450-DSA
-Starting the Love Babbar's 450 Questions DSA Sheet to be consistent by updating my progress here.
+Starting the Love Babbar's 450 Questions DSA Sheet and Striver's SDE Sheet to be consistent by updating my progress here.
 
 | S.no | Topic | Question |
 |-------|-------|-------------|
@@ -13,3 +13,8 @@ Starting the Love Babbar's 450 Questions DSA Sheet to be consistent by updating 
 | 8 | LinkedList | Delete Duplicates from sorted LinkedList |
 | 9 | LinkedList | Delete Duplicates from unsorted LinkedList |
 | 10 | LinkedList | Bring last element from linkedlist to beginning of it |
+| 11 | LinkedList | Delete nth node from last |
+| 12 | LinkedList | Middle Element in LinkedList |
+||||
+||||
+||||
