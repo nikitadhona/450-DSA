@@ -15,6 +15,9 @@ Starting the Love Babbar's 450 Questions DSA Sheet and Striver's SDE Sheet to be
 | 10 | LinkedList | Bring last element from linkedlist to beginning of it |
 | 11 | LinkedList | Delete nth node from last |
 | 12 | LinkedList | Middle Element in LinkedList |
+| 13 | LinkedList | Merge two sorted linked lists |
+| 14 | LinkedList | Delete given node when head is not given |
+| 15 | LinkedList | Addition of two numbers represented as linkedlist in reverse order |
+| 16 | LinkedList | Intersection point of two linkedlists |
 ||||
-||||
-||||
+
