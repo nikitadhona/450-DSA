@@ -19,5 +19,7 @@ Starting the Love Babbar's 450 Questions DSA Sheet and Striver's SDE Sheet to be
 | 14 | LinkedList | Delete given node when head is not given |
 | 15 | LinkedList | Addition of two numbers represented as linkedlist in reverse order |
 | 16 | LinkedList | Intersection point of two linkedlists |
+| 17 | LinkedList | Palindrome in LinkedList |
 ||||
+
 
