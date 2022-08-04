@@ -22,6 +22,6 @@ Starting the Love Babbar's 450 Questions DSA Sheet and Striver's SDE Sheet to be
 | 17 | LinkedList | Palindrome in LinkedList |
 | 18 | LinkedList | Flattening of LinkedList |
 | 19 | LinkedList | Starting point of loop |
-||||
+| 20 | LinkedList | Rotate by k turns |
 
 
