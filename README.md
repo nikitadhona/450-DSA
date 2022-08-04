@@ -20,6 +20,6 @@ Starting the Love Babbar's 450 Questions DSA Sheet and Striver's SDE Sheet to be
 | 15 | LinkedList | Addition of two numbers represented as linkedlist in reverse order |
 | 16 | LinkedList | Intersection point of two linkedlists |
 | 17 | LinkedList | Palindrome in LinkedList |
-||||
+| 18 | LinkedList | Flattening of LinkedList |
 
 
