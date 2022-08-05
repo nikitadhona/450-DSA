@@ -23,5 +23,6 @@ Starting the Love Babbar's 450 Questions DSA Sheet and Striver's SDE Sheet to be
 | 18 | LinkedList | Flattening of LinkedList |
 | 19 | LinkedList | Starting point of loop |
 | 20 | LinkedList | Rotate by k turns |
+| 21 | LinkedList | Segregate even and odd |
 
 
