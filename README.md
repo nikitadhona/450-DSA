@@ -27,5 +27,6 @@ Starting the Love Babbar's 450 Questions DSA Sheet and Striver's SDE Sheet to be
 | 22 | Strings | Reverse a string |
 | 23 | Strings | Palindrome |
 | 24 | Strings | Duplicate character in a string |
+| 25 | Linkedlist | Check if list is circular |
 
 
