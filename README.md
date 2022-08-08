@@ -26,6 +26,6 @@ Starting the Love Babbar's 450 Questions DSA Sheet and Striver's SDE Sheet to be
 | 21 | LinkedList | Segregate even and odd |
 | 22 | Strings | Reverse a string |
 | 23 | Strings | Palindrome |
-||||
+| 24 | Strings | Duplicate character in a string |
 
 
