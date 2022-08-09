@@ -1,3 +1,5 @@
+//Using Dutch National Flag Algorithm in short
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -32,3 +34,27 @@ int main(){
     cout<<endl;
     return 0;
 }
+
+
+//Leetcode Problem 75
+class Solution {
+public:
+    void sortColors(vector<int>& nums) {
+        int low=0;
+        int mid=0;
+        int high=nums.size()-1;
+        while(mid<=high){
+            switch(nums[mid]){
+                case 0:
+                    swap(nums[low++],nums[mid++]);
+                    break;
+                case 1:
+                    mid++;
+                    break;
+                case 2: 
+                    swap(nums[mid],nums[high--]);
+                    break;
+            }
+        }
+    }
+};
