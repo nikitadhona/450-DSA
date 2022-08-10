@@ -29,8 +29,8 @@ Starting the Love Babbar's 450 Questions DSA Sheet and Striver's SDE Sheet to be
 | 24 | Strings | Duplicate character in a string |
 | 25 | Linkedlist | Check if list is circular |
 | 26 | Array | Duplicate number in array |
-||||
-||||
+| 27 | Searching & Sorting | Searching in rotated sorted array in log(n) complexity |
+| 28 | Searching & Sorting | First and last occurence of an element in array |
 ||||
 ||||
 ||||
