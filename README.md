@@ -33,7 +33,7 @@ Starting the Love Babbar's 450 Questions DSA Sheet and Striver's SDE Sheet to be
 | 28 | Searching & Sorting | First and last occurence of an element in array |
 | 29 | Searching & Sorting | Index value equal to array value |
 | 30 | Searching & Sorting | Square root of an integer |
-||||
+| 31 | Searching & Sorting | Middle element using minimum comparisons |
 ||||
 ||||
 ||||
