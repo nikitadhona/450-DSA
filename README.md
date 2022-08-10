@@ -32,7 +32,7 @@ Starting the Love Babbar's 450 Questions DSA Sheet and Striver's SDE Sheet to be
 | 27 | Searching & Sorting | Searching in rotated sorted array in log(n) complexity |
 | 28 | Searching & Sorting | First and last occurence of an element in array |
 | 29 | Searching & Sorting | Index value equal to array value |
-||||
+| 30 | Searching & Sorting | Square root of an integer |
 ||||
 ||||
 ||||
