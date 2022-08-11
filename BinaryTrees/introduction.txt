@@ -1,0 +1,15 @@
+Types of Binary Trees:
+1. Full Binary Tree- Either 2 or 0 children.
+2. Complete Binary Tree- All levels are compltely filled except last. The last level should have nodes in as left side as possible.
+3. Perfect Binary Tree- All leaf nodes at same level.
+4. Balanced BT: Height of BT at max should be logn.
+5. Degenrate BT: Skew Trees(LinkedList).
+
+Traversal Techniques:
+1. Depth First Search:
+    1. Inorder- Left Root Right
+    2. Preorder- Root Left Right
+    3. Postorder- Left Right Root
+2. Breadth First Search:
+    -> Level Order Traversal
+
