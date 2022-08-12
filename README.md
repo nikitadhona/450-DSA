@@ -34,9 +34,9 @@ Starting the Love Babbar's 450 Questions DSA Sheet and Striver's SDE Sheet to be
 | 29 | Searching & Sorting | Index value equal to array value |
 | 30 | Searching & Sorting | Square root of an integer |
 | 31 | Searching & Sorting | Middle element using minimum comparisons |
-||||
-||||
-||||
-||||
+| 32 | Binary Trees | Preorder Recursion |
+| 33 | Binary Trees | Postorder Recursion |
+| 34 | Binary Trees | Inorder Recursion |
+| 35 | Binary Trees | Level Order Traversal |
 
 
