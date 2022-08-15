@@ -40,8 +40,8 @@ Starting the Love Babbar's 450 Questions DSA Sheet and Striver's SDE Sheet to be
 | 35 | Binary Trees | Level Order Traversal |
 | 36 | Binary Trees | Iterative Preorder |
 | 37 | Binary Trees | Iterative Inorder |
-| 38 | Binary Trees | Iterative Postorder |
-| 39 | Binary Trees ||
+| 38 | Binary Trees | Iterative Postorder using 2 stacks |
+| 39 | Binary Trees | Iterative Postorder using 1 stack |
 | 40 | Binary Trees ||
 ||||
 ||||
