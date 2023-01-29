@@ -44,6 +44,6 @@ Starting the Love Babbar's 450 Questions DSA Sheet and Striver's SDE Sheet to be
 | 39 | Binary Trees | Iterative Postorder using 1 stack | do lecture 12 and 13
 | 40 | Binary Trees | Maximum Depth |
 | 41 | Loops | Pattern 1 to 14 |
-| 42 |
+| 42 | Loops | Pattern 15 to 23 |
 | 43 |
 
