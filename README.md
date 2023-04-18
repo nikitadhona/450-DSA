@@ -45,5 +45,7 @@ Starting the Love Babbar's 450 Questions DSA Sheet and Striver's SDE Sheet to be
 | 40 | Binary Trees | Maximum Depth |
 | 41 | Loops | Pattern 1 to 14 |
 | 42 | Loops | Pattern 15 to 23 |
-| 43 |
+| 43 | Arrays | Basics and 2D Array |
+| 44 | Sorting | Bubble, insertion, selection sort |
+| 45 | Searching | Linear and Binary Search |
 
