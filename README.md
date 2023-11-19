@@ -1,6 +1,5 @@
 # 450-DSA
-Starting the Love Babbar's 450 Questions DSA Sheet and Striver's SDE Sheet to be consistent by updating my progress here.
-
+DSA Practice Questions
 | S.no | Topic | Question |
 |-------|-------|-------------|
 | 1 | Array | Reverse Array |
